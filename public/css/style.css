@@ -1,0 +1,23 @@
+.list-group-item {
+    border: none;
+}
+
+.coins {
+    width: 75px;
+}
+
+.user .coins {
+    cursor: pointer;
+}
+
+.img_title {
+    height: 100px;
+    margin: auto;
+}
+
+.img_product {
+    max-height: 150px;
+    margin: auto;
+    display: block;
+    width: 100%;
+}
