@@ -1,2 +1,2 @@
 # Ucit test/Kovalenko/MVC simple shop
-# [Тестовый стенд для проверки результа](https://test.3k6.ru)
+# [Тестовый стенд для проверки результа](http://test.3k6.ru)
